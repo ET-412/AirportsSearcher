@@ -15,4 +15,10 @@
 # Архитектура проекта
 ![архитектура проекта](https://user-images.githubusercontent.com/100112337/209479722-0cd5bf91-4593-4a28-9bbd-ad7a45149d6e.jpg)
 
+# Текущие процессы на проекте
+[Текущие процессы на проекте](https://github.com/ET-412/AirportsSearcher/blob/main/docs/process.md)
+
+# Работа команды
+[Процесс работы команды](https://github.com/ET-412/AirportsSearcher/blob/main/docs/team.md)
+
 
