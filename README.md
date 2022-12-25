@@ -9,3 +9,10 @@
 # Технологии
 - Java
 - Maven
+# План разработки
+![ганта](https://user-images.githubusercontent.com/100112337/209479699-5c252581-c124-44f2-88b0-37d52ac14129.jpg)
+
+# Архитектура проекта
+![архитектура проекта](https://user-images.githubusercontent.com/100112337/209479722-0cd5bf91-4593-4a28-9bbd-ad7a45149d6e.jpg)
+
+
